@@ -1,0 +1,28 @@
+{
+  "name": "works_to_do",
+  "version": "1.0.0",
+  "description": "My Note",
+  "main": "index.js",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choptian/Works_To_Do.git"
+  },
+  "keywords": [
+    "MD",
+    "PHP",
+    "HTML"
+  ],
+  "author": "Gabriel Choptian (ltdagabriel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Choptian/Works_To_Do/issues"
+  },
+  "homepage": "https://github.com/Choptian/Works_To_Do#readme"
+}
